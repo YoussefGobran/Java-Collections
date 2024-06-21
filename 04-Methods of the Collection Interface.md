@@ -77,3 +77,6 @@ This method is used to return a sequential Stream with this collection as its so
 - toArray()	
 
 This method is used to return an array containing all of the elements in this collection.
+
+## N.B
+The add(), remove(), clear(), size(), and contains() are the important methods of the Collection interface.
