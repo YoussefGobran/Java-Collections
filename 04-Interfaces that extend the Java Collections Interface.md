@@ -1,13 +1,15 @@
 # Interfaces that extend the Java Collections Interface
 
-![image](https://github.com/YoussefGobran/Java-Collections/assets/132088403/1bd874fa-f976-4483-8e4b-a5eacaaadb10)
-
 ## Collection Interface
 - This interface extends the iterable interface and is implemented by all the classes in the collection framework.
 - This interface contains all the basic methods which every collection has like adding the data into the collection, removing the data, clearing the data, etc.
 - All these methods are implemented by all the classes irrespective of their style of implementation.
 - And also, having these methods in this interface ensures that the names of the methods are universal for all the collections.
 - Therefore, in short, we can say that this interface builds a foundation on which the collection classes are implemented.
+
+![image](https://github.com/YoussefGobran/Java-Collections/assets/132088403/ea794da4-2b8d-469e-9ee1-234890ad74fb)
+
+![image](https://github.com/YoussefGobran/Java-Collections/assets/132088403/1bd874fa-f976-4483-8e4b-a5eacaaadb10)
 
 ## 1. List Interface
 - This is a child interface of the collection interface.
